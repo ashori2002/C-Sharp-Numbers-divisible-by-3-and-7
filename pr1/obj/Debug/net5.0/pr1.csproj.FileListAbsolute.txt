@@ -1,0 +1,16 @@
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.exe
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.deps.json
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.runtimeconfig.json
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.runtimeconfig.dev.json
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.dll
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\ref\pr1.dll
+C:\Users\ASHORI\source\repos\pr1\pr1\bin\Debug\net5.0\pr1.pdb
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.csproj.AssemblyReference.cache
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.AssemblyInfoInputs.cache
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.AssemblyInfo.cs
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.csproj.CoreCompileInputs.cache
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.dll
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\ref\pr1.dll
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.pdb
+C:\Users\ASHORI\source\repos\pr1\pr1\obj\Debug\net5.0\pr1.genruntimeconfig.cache
